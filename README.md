@@ -3,6 +3,8 @@
 
 To access the code: "Assets -> Scripts".
 
+A Unity project 
+
 ### In the following link, you can play the game on itch.io:
 https://leeyam.itch.io/the-legend-of-zelda-intervention
 
