@@ -3,7 +3,7 @@
 
 To access the code: "Assets -> Scripts".
 
-# In the following link, you can play the game on itch.io:
+### In the following link, you can play the game on itch.io:
 https://leeyam.itch.io/the-legend-of-zelda-intervention
 
 Created by Leeyam Gabay
